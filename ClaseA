@@ -1,9 +1,11 @@
 public class laseA
 {
- private int x;
+ private double x;
+ private String y;
  
   public ClaseA()
   {
-   x=;
+   x=0.0;
+   y= "";
    }
 }
