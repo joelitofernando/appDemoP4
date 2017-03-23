@@ -1,0 +1,9 @@
+public class laseA
+{
+ private int x;
+ 
+  public ClaseA()
+  {
+   x=;
+   }
+}
